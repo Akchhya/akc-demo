@@ -4,4 +4,6 @@ This is my first git repository
 Author- Akchhya Singh
 Nickname-Aishu
 Age-20
+Hi its my github repository!
 This is main!!
+
